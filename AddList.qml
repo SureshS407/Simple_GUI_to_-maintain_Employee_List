@@ -66,7 +66,7 @@ visible:false
                        color: "#03a9f4"
                              }
         onClicked: {
-         //   Qt.quit();
+         //here I need to write the append function..!  
        elist.namemodelalias.append({"employee_name":ename.text,"employee_ID":eid.text,"DOJ":edoj.text})
         }
         DropShadow{
