@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>manage.qml</file>
+        <file>Assets/Home_Screen.png</file>
+        <file>Assets/popup_close.png</file>
+        <file>Assets/Popup_Tick.png</file>
+        <file>Assets/Remind_me.png</file>
+        <file>Assets/Remind_Msg.png</file>
+        <file>Assets/Remove_Emplist.png</file>
+        <file>Assets/Search_Emplist.png</file>
+        <file>EmpList.qml</file>
+        <file>AddList.qml</file>
+    </qresource>
+</RCC>
